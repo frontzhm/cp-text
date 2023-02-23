@@ -1,6 +1,6 @@
 {
   "name": "cp-text",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/frontzhm/cp-text",
   "main": "index.js",
   "author": "zhm <frontzhm@163.com>",
