@@ -29,7 +29,7 @@ cpText('任意字符串内容', false);
 
 ```jsx
 <img
-  onClick={() => copyText(location.href)}
+  onClick={() => cpText(location.href)}
   width="20"
   src="https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/copy.png"
 />

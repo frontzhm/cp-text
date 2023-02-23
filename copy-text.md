@@ -18,7 +18,7 @@ cpText('任意字符串内容');
 
 ```jsx
 <img
-  onClick={() => copyText(location.href)}
+  onClick={() => cpText(location.href)}
   width="20"
   src="https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/copy.png"
 />
@@ -77,3 +77,7 @@ function showTip() {
 
 export default cpText;
 ```
+
+## 引用
+
+- [鑫旭大佬的JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
